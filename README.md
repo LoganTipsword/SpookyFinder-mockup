@@ -1,3 +1,3 @@
 # SpookyFinder-mockup
 
-The app mockup features a scare level dropdown menu and a placeholder box for a map. 
+The app mockup features a scare level dropdown menu, a placeholder box for a map, and a simulated camera and photo gallery. 
